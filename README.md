@@ -43,7 +43,7 @@ This plugin establishes modern, production-grade engineering standards for Postm
 
 ## What's Included
 
-### 1. Automatic Guardrails ([`rules/AGENTS.md`](./rules/AGENTS.md))
+### 1. Automatic Guardrails ([`rules/modern-postman-newman-engineering.md`](./rules/modern-postman-newman-engineering.md))
 Automatically enforced across all projects utilizing Postman and Newman:
 - **Mandatory Dedicated `README.md` (Living Runbook Mandate)**: Absolute mandate requiring any directory housing Postman collections to maintain an up-to-date living runbook synchronized in every PR.
 - **Absolute Ban on Hardcoded Secrets**: Strictly forbidding committed secrets in collection or environment JSON files; enforcing dynamic runtime injection.
@@ -91,7 +91,7 @@ modern-postman-newman-best-practices/
 ├── plugin.json
 ├── README.md
 ├── rules/
-│   └── AGENTS.md
+│   └── modern-postman-newman-engineering.md
 └── skills/
     ├── modern-postman-collection-craftsmanship/
     │   ├── SKILL.md
