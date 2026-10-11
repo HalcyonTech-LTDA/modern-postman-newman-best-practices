@@ -1,0 +1,14 @@
+{
+  "name": "modern-postman-newman-best-practices",
+  "description": "Professional modern Postman and Newman automated API testing best practices covering collection craftsmanship, dynamic workflows, zero-secret environment decoupling, deterministic CI/CD quality gates, containerized orchestration, and mandatory living README.md runbook documentation discipline.",
+  "author": {
+    "name": "Halcyon Tech",
+    "url": "https://github.com/HalcyonTech-LTDA"
+  },
+  "homepage": "https://github.com/HalcyonTech-LTDA/modern-postman-newman-best-practices",
+  "repository": "https://github.com/HalcyonTech-LTDA/modern-postman-newman-best-practices",
+  "license": "MIT",
+  "skills": [
+    "./claude/skills/"
+  ]
+}
